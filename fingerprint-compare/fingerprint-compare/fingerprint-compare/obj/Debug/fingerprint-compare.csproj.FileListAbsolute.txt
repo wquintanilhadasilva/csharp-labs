@@ -1,0 +1,9 @@
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\bin\Debug\fingerprint-compare.exe.config
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\bin\Debug\fingerprint-compare.exe
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\bin\Debug\fingerprint-compare.pdb
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\obj\Debug\fingerprint-compare.csprojResolveAssemblyReference.cache
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\obj\Debug\fingerprint_compare.Form1.resources
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\obj\Debug\fingerprint_compare.Properties.Resources.resources
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\obj\Debug\fingerprint-compare.csproj.GenerateResource.Cache
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\obj\Debug\fingerprint-compare.exe
+D:\dev\VS2017\sharp-labs\fingerprint-compare\fingerprint-compare\fingerprint-compare\obj\Debug\fingerprint-compare.pdb
